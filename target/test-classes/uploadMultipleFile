@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="File.Upload_Download.uploadMultipleFile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
