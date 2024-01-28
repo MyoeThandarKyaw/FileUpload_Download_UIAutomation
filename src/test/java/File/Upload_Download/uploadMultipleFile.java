@@ -126,6 +126,7 @@ public class uploadMultipleFile {
 		}
 		Thread.sleep(2000);
 		
+		//test delete upload files
 		driver.findElement(By.xpath("//*[@id=\"fileupload\"]/div/div[1]/input")).click();
 		driver.findElement(By.xpath("//*[@id=\"fileupload\"]/div/div[1]/button[3]/span")).click();
 		
