@@ -2,7 +2,7 @@
 <suite parallel="false" name="Suite">
   <test name="Test">
     <classes>
-      <class name="File.Upload_Download.FileUpload"/>
+      <class name="File.Upload_Download.uploadMultiplePhotos"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

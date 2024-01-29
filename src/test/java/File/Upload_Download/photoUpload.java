@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterClass;
 import static org.testng.Assert.assertTrue;
 
-public class FileUpload {
+public class photoUpload {
 	WebDriver driver;
 
 	@BeforeClass
